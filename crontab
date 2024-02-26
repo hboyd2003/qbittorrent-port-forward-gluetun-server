@@ -1,0 +1,2 @@
+*/5 * * * * root ./usr/src/app/main.sh
+# Don't remove the empty line at the end of this file. It is required to run the cron job
